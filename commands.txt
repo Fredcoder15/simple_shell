@@ -1,0 +1,6 @@
+pwd
+ls
+ls -al
+ls -l
+which man
+vim main.c

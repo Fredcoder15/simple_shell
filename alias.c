@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "shell.h"
+#include "main.h"
 #include <stdlib.h>
 #include <string.h>
 /* This handles alias creation, finding and updating	*/

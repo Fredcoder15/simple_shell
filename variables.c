@@ -1,5 +1,5 @@
 #include <string.h>
-#include "shell.h"
+#include "main.h"
 #include <unistd.h>
 #include <stdlib.h>
 #include <fcntl.h>

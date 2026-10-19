@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 /* This handles my parsing and tokenizations rather than using strtok from 
